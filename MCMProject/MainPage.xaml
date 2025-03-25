@@ -1,0 +1,25 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MCMProject.MainPage">
+
+    <StackLayout>
+        <Button Text="Add Movie" Clicked="OnAddMovieClicked" />
+        <CollectionView ItemsSource="{Binding Movies}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame>
+                        <StackLayout>
+                            <Label Text="{Binding Title}" FontAttributes="Bold" />
+                            <Label Text="{Binding Genre}" />
+                            <Label Text="{Binding ReleaseYear}" />
+                            <Label Text="{Binding Director}" />
+                            <Label Text="{Binding Rating}" />
+                            <CheckBox IsChecked="{Binding Watched}" />
+                            <Button Text="Delete" Clicked="OnDeleteMovieClicked" CommandParameter="{Binding MovieID}" />
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>
