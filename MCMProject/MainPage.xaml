@@ -16,8 +16,8 @@
             <Label Text="Watched?" VerticalOptions="Center" />
         </StackLayout>
 
-        <!-- Add Movie Button -->
-        <Button Text="Add Movie" Clicked="OnAddMovieClicked" />
+        <!-- Add/Edit Movie Button -->
+        <Button Text="Add Movie" Clicked="OnSaveMovieClicked" x:Name="SaveButton" />
 
         <!-- Movie List -->
         <CollectionView ItemsSource="{Binding Movies}">
@@ -37,7 +37,11 @@
                                 <Label Text="Watched?" VerticalOptions="Center" />
                             </StackLayout>
 
-                            <Button Text="Delete" Clicked="OnDeleteMovieClicked" CommandParameter="{Binding MovieID}" />
+                            <!-- Edit and Delete Buttons -->
+                            <StackLayout Orientation="Horizontal">
+                                <Button Text="Edit" Clicked="OnEditMovieClicked" CommandParameter="{Binding MovieID}" />
+                                <Button Text="Delete" Clicked="OnDeleteMovieClicked" CommandParameter="{Binding MovieID}" />
+                            </StackLayout>
                         </StackLayout>
                     </Frame>
                 </DataTemplate>

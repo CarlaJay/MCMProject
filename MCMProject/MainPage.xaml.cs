@@ -1,6 +1,4 @@
-﻿using System;
-using System.ComponentModel;
-using System.Reflection.PortableExecutable;
+﻿using System.ComponentModel;
 
 namespace MCMProject
 {
@@ -8,6 +6,7 @@ namespace MCMProject
     {
         private readonly MovieService _movieService;
         private List<Movie> _movies;
+        private int? _selectedMovieId; // Tracks the ID of the selected movie for editing
 
         public List<Movie> Movies
         {
@@ -28,15 +27,16 @@ namespace MCMProject
 
             LoadMovies();
             BindingContext = this;
+
+            SaveButton.Text = "Add Movie"; // Default text for the button
         }
 
         private void LoadMovies()
         {
             Movies = _movieService.GetAllMovies();
-            Console.WriteLine($"Loaded {Movies.Count} movies."); // Debugging statement
         }
 
-        private void OnAddMovieClicked(object sender, EventArgs e)
+        private void OnSaveMovieClicked(object sender, EventArgs e)
         {
             // Retrieve input values
             var title = TitleEntry.Text?.Trim();
@@ -61,28 +61,66 @@ namespace MCMProject
                 return;
             }
 
-            // Create a new movie
-            var newMovie = new Movie
+            if (_selectedMovieId.HasValue)
             {
-                Title = title,
-                Genre = genre,
-                ReleaseYear = releaseYear,
-                Director = director,
-                Rating = rating,
-                Watched = watched
-            };
+                // Update existing movie
+                var movieToUpdate = _movieService.GetAllMovies().FirstOrDefault(m => m.MovieID == _selectedMovieId.Value);
+                if (movieToUpdate != null)
+                {
+                    movieToUpdate.Title = title;
+                    movieToUpdate.Genre = genre;
+                    movieToUpdate.ReleaseYear = releaseYear;
+                    movieToUpdate.Director = director;
+                    movieToUpdate.Rating = rating;
+                    movieToUpdate.Watched = watched;
 
-            // Add the movie and refresh the list
-            _movieService.AddMovie(newMovie);
+                    _movieService.UpdateMovie(movieToUpdate);
+                    _selectedMovieId = null; // Reset the selected movie ID
+                    SaveButton.Text = "Add Movie"; // Reset button text
+                }
+            }
+            else
+            {
+                // Create new movie
+                var newMovie = new Movie
+                {
+                    Title = title,
+                    Genre = genre,
+                    ReleaseYear = releaseYear,
+                    Director = director,
+                    Rating = rating,
+                    Watched = watched
+                };
+
+                _movieService.AddMovie(newMovie);
+            }
+
+            // Clear input fields and reload movies
+            ClearInputFields();
             LoadMovies();
+        }
 
-            // Clear input fields
-            TitleEntry.Text = string.Empty;
-            GenreEntry.Text = string.Empty;
-            ReleaseYearEntry.Text = string.Empty;
-            DirectorEntry.Text = string.Empty;
-            RatingEntry.Text = string.Empty;
-            WatchedCheckbox.IsChecked = false;
+        private void OnEditMovieClicked(object sender, EventArgs e)
+        {
+            var button = sender as Button;
+            var movieId = (int)button.CommandParameter;
+
+            // Find the selected movie
+            var selectedMovie = _movieService.GetAllMovies().FirstOrDefault(m => m.MovieID == movieId);
+            if (selectedMovie != null)
+            {
+                // Populate input fields with the selected movie's details
+                TitleEntry.Text = selectedMovie.Title;
+                GenreEntry.Text = selectedMovie.Genre;
+                ReleaseYearEntry.Text = selectedMovie.ReleaseYear?.ToString();
+                DirectorEntry.Text = selectedMovie.Director;
+                RatingEntry.Text = selectedMovie.Rating?.ToString();
+                WatchedCheckbox.IsChecked = selectedMovie.Watched;
+
+                // Set the selected movie ID and update the button text
+                _selectedMovieId = selectedMovie.MovieID;
+                SaveButton.Text = "Update Movie";
+            }
         }
 
         private void OnDeleteMovieClicked(object sender, EventArgs e)
@@ -92,6 +130,16 @@ namespace MCMProject
 
             _movieService.DeleteMovie(movieId);
             LoadMovies();
+        }
+
+        private void ClearInputFields()
+        {
+            TitleEntry.Text = string.Empty;
+            GenreEntry.Text = string.Empty;
+            ReleaseYearEntry.Text = string.Empty;
+            DirectorEntry.Text = string.Empty;
+            RatingEntry.Text = string.Empty;
+            WatchedCheckbox.IsChecked = false;
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

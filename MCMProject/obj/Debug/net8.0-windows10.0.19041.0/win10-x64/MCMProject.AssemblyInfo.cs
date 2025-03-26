@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MCMProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c6bfb2ce75362d3513a74a84a48db846fadbab84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b21c61ff7ab944bf66035f41c9f773c05c075b42")]
 [assembly: System.Reflection.AssemblyProductAttribute("MCMProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MCMProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

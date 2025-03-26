@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\mcmproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MCMProject\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MainPage.xaml.cs",
-              "RelativeToolTip": "MCMProject\\MainPage.xaml.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGcAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MainPage.xaml.cs*",
+              "RelativeToolTip": "MCMProject\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwJcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T16:10:43.226Z",
               "EditorCaption": ""
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\AppShell.xaml",
               "RelativeDocumentMoniker": "MCMProject\\AppShell.xaml",
@@ -131,8 +131,7 @@
               "RelativeToolTip": "MCMProject\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-25T14:55:13.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T14:55:13.515Z"
             },
             {
               "$type": "Document",
@@ -148,13 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MainPage.xaml",
               "RelativeDocumentMoniker": "MCMProject\\MainPage.xaml",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MainPage.xaml*",
               "RelativeToolTip": "MCMProject\\MainPage.xaml*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwC4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-25T14:37:00.858Z",
               "EditorCaption": ""
