@@ -1,48 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MCMProject\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\source\\repos\\mcmproject\\mcmproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\source\\repos\\mcmproject\\mcmproject\\mcmproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\mcmproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\source\\repos\\mcmproject\\mcmproject\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\source\\repos\\mcmproject\\mcmproject\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\source\\repos\\mcmproject\\mcmproject\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\source\\repos\\mcmproject\\mcmproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\source\\repos\\mcmproject\\mcmproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\mcmproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\mcmproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|c:\\users\\user\\onedrive\\desktop\\mcmproject\\mcmproject\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DC182-EDDE-48A0-98FA-3894A3227DC9}|MCMProject\\MCMProject.csproj|solutionrelative:mcmproject\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 164,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,25 +53,8 @@
               "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MovieService.cs",
-              "RelativeDocumentMoniker": "MCMProject\\MovieService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MovieService.cs*",
-              "RelativeToolTip": "MCMProject\\MovieService.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T16:43:00.081Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{936b24b7-e640-3186-98a7-24307bb298e0}"
             },
             {
               "$type": "Bookmark",
@@ -79,63 +62,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAawEoAAABEAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MovieService.cs",
+              "RelativeDocumentMoniker": "MCMProject\\MovieService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MovieService.cs",
+              "RelativeToolTip": "MCMProject\\MovieService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T16:21:08.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T16:43:00.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "MCMProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAawEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:21:08.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MCMProject\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MainPage.xaml.cs*",
-              "RelativeToolTip": "MCMProject\\MainPage.xaml.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAcwEcAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MainPage.xaml.cs",
+              "RelativeToolTip": "MCMProject\\MainPage.xaml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T16:10:43.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MovieDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MovieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MovieDbContext.cs",
               "RelativeDocumentMoniker": "MCMProject\\MovieDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MovieDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MovieDbContext.cs",
               "RelativeToolTip": "MCMProject\\MovieDbContext.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADwvxIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T15:48:54.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T15:48:54.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\Movie.cs",
               "RelativeDocumentMoniker": "MCMProject\\Movie.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\Movie.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\Movie.cs",
               "RelativeToolTip": "MCMProject\\Movie.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA5wBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T15:46:04.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T15:46:04.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\AppShell.xaml",
               "RelativeDocumentMoniker": "MCMProject\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\AppShell.xaml",
               "RelativeToolTip": "MCMProject\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -144,26 +136,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MCMProject",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MCMProject.csproj",
+              "DocumentIndex": 3,
+              "Title": "MCMProject.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MCMProject.csproj",
               "RelativeDocumentMoniker": "MCMProject\\MCMProject.csproj",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MCMProject.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MCMProject.csproj",
               "RelativeToolTip": "MCMProject\\MCMProject.csproj",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-25T14:49:07.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T14:49:07.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MainPage.xaml",
               "RelativeDocumentMoniker": "MCMProject\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MainPage.xaml",
-              "RelativeToolTip": "MCMProject\\MainPage.xaml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBgAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MainPage.xaml*",
+              "RelativeToolTip": "MCMProject\\MainPage.xaml*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-25T14:37:00.858Z",
               "EditorCaption": ""

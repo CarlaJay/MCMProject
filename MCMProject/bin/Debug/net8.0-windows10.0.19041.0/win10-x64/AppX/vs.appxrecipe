@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.mcmproject</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\User\source\repos\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>5F484B28AC59BA07A4F7CA18F86ACF130F963B303C13EA5E2D077321EFBFDBA9</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.mcmproject_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.mcmproject_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,264 +27,264 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\User\source\repos\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-25T16:47:59.403</Modified>
+      <Modified>2025-03-26T11:57:08.552</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-25T16:30:44.645</Modified>
+      <Modified>2025-03-26T11:57:07.190</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MCMProject.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MCMProject.runtimeconfig.json">
       <PackagePath>MCMProject.runtimeconfig.json</PackagePath>
-      <Modified>2025-03-25T16:30:44.234</Modified>
+      <Modified>2025-03-26T11:57:06.460</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MCMProject.dll">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MCMProject.dll">
       <PackagePath>MCMProject.dll</PackagePath>
-      <Modified>2025-03-25T16:47:58.537</Modified>
+      <Modified>2025-03-26T11:57:03.641</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MCMProject.exe</PackagePath>
-      <Modified>2025-03-25T16:47:58.559</Modified>
+      <Modified>2025-03-26T11:57:03.678</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2025-03-25T14:36:25.508</Modified>
+      <Modified>2025-03-26T11:15:05.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-03-25T16:19:30.123</Modified>
+      <Modified>2025-03-26T11:54:54.641</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-03-25T16:19:30.140</Modified>
+      <Modified>2025-03-26T11:54:54.670</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-03-25T16:19:30.167</Modified>
+      <Modified>2025-03-26T11:54:54.714</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-03-25T16:19:30.205</Modified>
+      <Modified>2025-03-26T11:54:54.773</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-03-25T16:19:30.357</Modified>
+      <Modified>2025-03-26T11:54:54.985</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2025-03-25T14:36:25.492</Modified>
+      <Modified>2025-03-26T11:15:05.511</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2025-03-25T14:36:25.496</Modified>
+      <Modified>2025-03-26T11:15:05.516</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-03-25T16:19:31.448</Modified>
+      <Modified>2025-03-26T11:54:57.450</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.373</Modified>
+      <Modified>2025-03-26T11:54:57.059</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.371</Modified>
+      <Modified>2025-03-26T11:54:57.051</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.371</Modified>
+      <Modified>2025-03-26T11:54:57.045</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.368</Modified>
+      <Modified>2025-03-26T11:54:57.039</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.366</Modified>
+      <Modified>2025-03-26T11:54:57.029</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.416</Modified>
+      <Modified>2025-03-26T11:54:57.244</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.413</Modified>
+      <Modified>2025-03-26T11:54:57.239</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.407</Modified>
+      <Modified>2025-03-26T11:54:57.222</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.411</Modified>
+      <Modified>2025-03-26T11:54:57.235</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.409</Modified>
+      <Modified>2025-03-26T11:54:57.228</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.425</Modified>
+      <Modified>2025-03-26T11:54:57.267</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.423</Modified>
+      <Modified>2025-03-26T11:54:57.263</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.418</Modified>
+      <Modified>2025-03-26T11:54:57.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.422</Modified>
+      <Modified>2025-03-26T11:54:57.259</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.421</Modified>
+      <Modified>2025-03-26T11:54:57.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.447</Modified>
+      <Modified>2025-03-26T11:54:57.446</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.444</Modified>
+      <Modified>2025-03-26T11:54:57.443</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.441</Modified>
+      <Modified>2025-03-26T11:54:57.440</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.439</Modified>
+      <Modified>2025-03-26T11:54:57.434</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.437</Modified>
+      <Modified>2025-03-26T11:54:57.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.435</Modified>
+      <Modified>2025-03-26T11:54:57.293</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.433</Modified>
+      <Modified>2025-03-26T11:54:57.287</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.428</Modified>
+      <Modified>2025-03-26T11:54:57.273</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.432</Modified>
+      <Modified>2025-03-26T11:54:57.283</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.430</Modified>
+      <Modified>2025-03-26T11:54:57.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.380</Modified>
+      <Modified>2025-03-26T11:54:57.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.380</Modified>
+      <Modified>2025-03-26T11:54:57.160</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.380</Modified>
+      <Modified>2025-03-26T11:54:57.112</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.379</Modified>
+      <Modified>2025-03-26T11:54:57.105</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.378</Modified>
+      <Modified>2025-03-26T11:54:57.099</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.392</Modified>
+      <Modified>2025-03-26T11:54:57.190</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.389</Modified>
+      <Modified>2025-03-26T11:54:57.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.387</Modified>
+      <Modified>2025-03-26T11:54:57.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.385</Modified>
+      <Modified>2025-03-26T11:54:57.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.383</Modified>
+      <Modified>2025-03-26T11:54:57.170</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.405</Modified>
+      <Modified>2025-03-26T11:54:57.217</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.402</Modified>
+      <Modified>2025-03-26T11:54:57.212</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.399</Modified>
+      <Modified>2025-03-26T11:54:57.205</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.398</Modified>
+      <Modified>2025-03-26T11:54:57.199</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.396</Modified>
+      <Modified>2025-03-26T11:54:57.195</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.378</Modified>
+      <Modified>2025-03-26T11:54:57.093</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.377</Modified>
+      <Modified>2025-03-26T11:54:57.086</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.376</Modified>
+      <Modified>2025-03-26T11:54:57.080</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.375</Modified>
+      <Modified>2025-03-26T11:54:57.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.375</Modified>
+      <Modified>2025-03-26T11:54:57.066</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.470</Modified>
+      <Modified>2025-03-26T11:54:57.491</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.465</Modified>
+      <Modified>2025-03-26T11:54:57.481</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.459</Modified>
+      <Modified>2025-03-26T11:54:57.474</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.454</Modified>
+      <Modified>2025-03-26T11:54:57.462</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-03-25T16:19:31.449</Modified>
+      <Modified>2025-03-26T11:54:57.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -638,9 +638,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-06-25T19:48:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\User\source\repos\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MCMProject.deps.json">
+    <AppxPackagedFile Include="C:\Users\User\OneDrive\Desktop\MCMProject\MCMProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MCMProject.deps.json">
       <PackagePath>MCMProject.deps.json</PackagePath>
-      <Modified>2025-03-25T16:30:45.076</Modified>
+      <Modified>2025-03-26T11:57:07.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\humanizer.core\2.14.1\lib\net6.0\Humanizer.dll">
       <PackagePath>Humanizer.dll</PackagePath>

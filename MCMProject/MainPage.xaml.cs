@@ -1,5 +1,6 @@
-﻿using System.ComponentModel;
-using System.Runtime.CompilerServices;
+﻿using System;
+using System.ComponentModel;
+using System.Reflection.PortableExecutable;
 
 namespace MCMProject
 {
@@ -37,20 +38,51 @@ namespace MCMProject
 
         private void OnAddMovieClicked(object sender, EventArgs e)
         {
-            Console.WriteLine("Add Movie button clicked."); // Debugging statement
+            // Retrieve input values
+            var title = TitleEntry.Text?.Trim();
+            var genre = GenreEntry.Text?.Trim();
+            var releaseYearText = ReleaseYearEntry.Text?.Trim();
+            var director = DirectorEntry.Text?.Trim();
+            var ratingText = RatingEntry.Text?.Trim();
+            var watched = WatchedCheckbox.IsChecked;
 
+            // Validate input
+            if (string.IsNullOrWhiteSpace(title) || string.IsNullOrWhiteSpace(genre) ||
+                string.IsNullOrWhiteSpace(releaseYearText) || string.IsNullOrWhiteSpace(director) ||
+                string.IsNullOrWhiteSpace(ratingText))
+            {
+                DisplayAlert("Error", "Please fill in all fields.", "OK");
+                return;
+            }
+
+            if (!int.TryParse(releaseYearText, out int releaseYear) || !decimal.TryParse(ratingText, out decimal rating))
+            {
+                DisplayAlert("Error", "Invalid Release Year or Rating. Please enter valid numbers.", "OK");
+                return;
+            }
+
+            // Create a new movie
             var newMovie = new Movie
             {
-                Title = "New Movie",
-                Genre = "Action",
-                ReleaseYear = 2023,
-                Director = "John Doe",
-                Rating = 7.5m,
-                Watched = false
+                Title = title,
+                Genre = genre,
+                ReleaseYear = releaseYear,
+                Director = director,
+                Rating = rating,
+                Watched = watched
             };
 
+            // Add the movie and refresh the list
             _movieService.AddMovie(newMovie);
             LoadMovies();
+
+            // Clear input fields
+            TitleEntry.Text = string.Empty;
+            GenreEntry.Text = string.Empty;
+            ReleaseYearEntry.Text = string.Empty;
+            DirectorEntry.Text = string.Empty;
+            RatingEntry.Text = string.Empty;
+            WatchedCheckbox.IsChecked = false;
         }
 
         private void OnDeleteMovieClicked(object sender, EventArgs e)
@@ -64,9 +96,9 @@ namespace MCMProject
 
         public event PropertyChangedEventHandler PropertyChanged;
 
-        protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
+        protected virtual void OnPropertyChanged([System.Runtime.CompilerServices.CallerMemberName] string propertyName = null)
         {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+            PropertyChanged?.Invoke(this, new System.ComponentModel.PropertyChangedEventArgs(propertyName));
         }
     }
 }

@@ -2,8 +2,24 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MCMProject.MainPage">
 
-    <StackLayout>
+    <StackLayout Padding="20">
+        <!-- Input Fields -->
+        <Entry Placeholder="Enter Title" x:Name="TitleEntry" />
+        <Entry Placeholder="Enter Genre" x:Name="GenreEntry" />
+        <Entry Placeholder="Enter Release Year" x:Name="ReleaseYearEntry" Keyboard="Numeric" />
+        <Entry Placeholder="Enter Director" x:Name="DirectorEntry" />
+        <Entry Placeholder="Enter Rating" x:Name="RatingEntry" Keyboard="Numeric" />
+
+        <!-- Watched Checkbox -->
+        <StackLayout Orientation="Horizontal">
+            <CheckBox x:Name="WatchedCheckbox" />
+            <Label Text="Watched?" VerticalOptions="Center" />
+        </StackLayout>
+
+        <!-- Add Movie Button -->
         <Button Text="Add Movie" Clicked="OnAddMovieClicked" />
+
+        <!-- Movie List -->
         <CollectionView ItemsSource="{Binding Movies}">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
@@ -14,7 +30,13 @@
                             <Label Text="{Binding ReleaseYear}" />
                             <Label Text="{Binding Director}" />
                             <Label Text="{Binding Rating}" />
-                            <CheckBox IsChecked="{Binding Watched}" />
+
+                            <!-- Watched Checkbox in the List -->
+                            <StackLayout Orientation="Horizontal">
+                                <CheckBox IsChecked="{Binding Watched}" IsEnabled="False" />
+                                <Label Text="Watched?" VerticalOptions="Center" />
+                            </StackLayout>
+
                             <Button Text="Delete" Clicked="OnDeleteMovieClicked" CommandParameter="{Binding MovieID}" />
                         </StackLayout>
                     </Frame>

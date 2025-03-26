@@ -65613,11 +65613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MCMProject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MCMProject.csproj",
       "projectName": "MCMProject",
-      "projectPath": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\MCMProject.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\MCMProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\MCMProject\\MCMProject\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\MCMProject\\MCMProject\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
